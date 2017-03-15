@@ -1,0 +1,4722 @@
+Initialize engine version: 5.5.2p2 (03f34082a9c0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1b81)
+    Vendor:   NVIDIA
+    VRAM:     8085 MB
+    Driver:   21.21.13.7633
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.VR.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\UnityEngine.VR.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\AmplifyColor.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\AmplifyColor.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\DOTween.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\DOTween.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\DOTween43.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\DOTween43.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\DOTween46.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\DOTween46.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\DOTween50.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\DOTween50.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\ArabicSupport.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\ArabicSupport.dll into Unity Child Domain
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\TBE_Components.dll (this message is harmless)
+Loading C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\TBE_Components.dll into Unity Child Domain
+- Completed reload, in  0.027 seconds
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on OVRScreenFade
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 382)
+
+<RI> Initializing input.
+
+<RI> Input initialized.
+
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initialized touch support.
+
+ovr_Create(&m_session, &luid) failed: ovr_Create: No HMD attached.
+Failed to create Oculus Session.Compositor failed to initialize.ovr_Create(&m_session, &luid) failed: ovr_Create: No HMD attached.
+Failed to create Oculus Session.Compositor failed to initialize.OpenVR initialized!
+ 
+(Filename:  Line: 381)
+
+[VRDevice] Successfully created device OpenVR.
+The referenced script on this Behaviour (Game Object 'Playground Manager') is missing!
+ 
+(Filename:  Line: 1754)
+
+UnloadTime: 0.511026 ms
+StartupTimeProfiler: before scene load: 6.21801s
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3Dception: No audio listener in scene.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+StartupTimeProfiler: after scene load: 6.375751s
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: loading input type 'steamvr'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+Localization: settings language code: steam
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Localization: Steam language: English (en)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Localization: Set to language: English (en)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: > using steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Connected to lighthouse:LHR-4B30ECB3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found vive camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): creating mouse camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Json ''
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Death' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Death'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.OnScriptReload(): steam active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 0: device class: HMD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 1: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 2: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 3: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 4: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 5: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 6: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 7: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 8: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 9: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 10: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 11: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 12: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 13: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 14: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 15: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager: finding player objects...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager: > found fallback vr 'PlayerVive'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager: missing mouse player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Console: instantiating via object 'PlayerManager'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 1086 unused Assets to reduce memory usage. Loaded Objects now: 3607.
+Total: 2.732881 ms (FindLiveObjects: 0.278901 ms CreateObjectMapping: 0.097059 ms MarkObjects: 1.975111 ms  DeleteObjects: 0.380054 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 510 unused Assets to reduce memory usage. Loaded Objects now: 4605.
+Total: 3.198593 ms (FindLiveObjects: 0.241772 ms CreateObjectMapping: 0.064024 ms MarkObjects: 2.600739 ms  DeleteObjects: 0.291764 ms)
+
+PlayerViveInputManager: creating input 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchFrisbee=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchBubbleGun=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchShield=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchFrisbee'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchFrisbee' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchBubbleGun'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchBubbleGun' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchShield'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchShield' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Console: scanning took 276ms
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ASYNC LOAD STARTED - MainMenuSimple
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+ASYNC activating scene - MainMenuSimple
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UnloadTime: 9.431772 ms
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: loading input type 'steamvr'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: > using steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Json ''
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found vive camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found disabled main camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Cave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Cave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.OnScriptReload(): steam active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 0: device class: HMD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 1: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 2: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 3: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 4: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 5: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 6: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 7: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 8: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 9: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 10: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 11: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 12: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 13: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 14: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 15: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2379 unused Assets to reduce memory usage. Loaded Objects now: 8327.
+Total: 8.537183 ms (FindLiveObjects: 0.468343 ms CreateObjectMapping: 0.157868 ms MarkObjects: 6.205990 ms  DeleteObjects: 1.704396 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 131853.
+Total: 26.329559 ms (FindLiveObjects: 6.891257 ms CreateObjectMapping: 0.931717 ms MarkObjects: 18.275045 ms  DeleteObjects: 0.231248 ms)
+
+Upgrade: register initial 'researchFrisbee=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchBubbleGun=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchShield=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchFrisbee'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchFrisbee' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchBubbleGun'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchBubbleGun' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchShield'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchShield' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 54.738895 ms
+3Dception: No audio listener in scene.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeChill
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: loading input type 'steamvr'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: > using steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found vive camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): creating mouse camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Json ''
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeChill
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: x2 crystals, x1 gold crystals, x0 ectoplants
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > force allocate crystal: ResourceSpawn00.CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal: ResourceSpawn02.CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal gold: ResourceSpawn03.CrystalPatchGold (3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.OnScriptReload(): steam active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 0: device class: HMD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 1: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 2: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 3: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 4: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 5: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 6: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 7: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 8: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 9: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 10: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 11: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 12: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 13: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 14: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 15: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2679 unused Assets to reduce memory usage. Loaded Objects now: 25753.
+Total: 22.487507 ms (FindLiveObjects: 1.382519 ms CreateObjectMapping: 0.468635 ms MarkObjects: 11.233813 ms  DeleteObjects: 9.402246 ms)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 148861.
+Total: 36.108643 ms (FindLiveObjects: 9.057565 ms CreateObjectMapping: 1.939445 ms MarkObjects: 24.968967 ms  DeleteObjects: 0.142374 ms)
+
+Upgrade: register initial 'researchFrisbee=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchBubbleGun=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchShield=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchFrisbee'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchFrisbee' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchBubbleGun'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchBubbleGun' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchShield'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchShield' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 64.048172 ms
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeChill
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: loading input type 'steamvr'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: > using steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Json ''
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found vive camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found disabled main camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeChill
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Cave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Cave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.OnScriptReload(): steam active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 0: device class: HMD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 1: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 2: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 3: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 4: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 5: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 6: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 7: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 8: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 9: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 10: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 11: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 12: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 13: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 14: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 15: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2693 unused Assets to reduce memory usage. Loaded Objects now: 8618.
+Total: 13.757664 ms (FindLiveObjects: 0.525644 ms CreateObjectMapping: 0.254051 ms MarkObjects: 8.103629 ms  DeleteObjects: 4.873754 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 131704.
+Total: 27.224440 ms (FindLiveObjects: 6.683981 ms CreateObjectMapping: 0.920900 ms MarkObjects: 19.504082 ms  DeleteObjects: 0.115185 ms)
+
+Upgrade: register initial 'researchFrisbee=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchBubbleGun=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchShield=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchFrisbee'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchFrisbee' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchBubbleGun'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchBubbleGun' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchShield'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchShield' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Playground Manager') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 58.978832 ms
+3Dception: No audio listener in scene.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeSwarm
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: loading input type 'steamvr'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: > using steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found vive camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): creating mouse camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: x6 crystals, x3 gold crystals, x0 ectoplants
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > force allocate crystal: C1_Pylon.CrystalPatch (3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal: C1_Build.CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal: C2_Pylon.CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal: C2_Build.CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal: C3_Build.CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal: C2_Build .CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal gold: C3_Build.CrystalPatchGold (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal gold: C3_Pylon.CrystalPatchGold (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal gold: C1_Build.CrystalPatchGold (3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Json ''
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeSwarm
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Dawn'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.OnScriptReload(): steam active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 0: device class: HMD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 1: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 2: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 3: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 4: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 5: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 6: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 7: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 8: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 9: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 10: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 11: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 12: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 13: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 14: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 15: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2975 unused Assets to reduce memory usage. Loaded Objects now: 36422.
+Total: 41.547218 ms (FindLiveObjects: 2.079772 ms CreateObjectMapping: 0.859214 ms MarkObjects: 20.884262 ms  DeleteObjects: 17.723089 ms)
+
+SkyboxTrigger: changing skybox to 'Cave' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Cave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 48 unused Assets to reduce memory usage. Loaded Objects now: 158981.
+Total: 45.430492 ms (FindLiveObjects: 8.762877 ms CreateObjectMapping: 2.486138 ms MarkObjects: 33.959877 ms  DeleteObjects: 0.221308 ms)
+
+Upgrade: register initial 'researchFrisbee=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchBubbleGun=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchShield=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchFrisbee'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchFrisbee' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchBubbleGun'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchBubbleGun' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchShield'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchShield' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C3_Travel - Skyzone: spawning random wave: x1, difficulty: 1.937496
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x1, difficulty: 3.833323
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Cave' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Cave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Pylon - Skyzone: spawning random wave: x2, difficulty: 6.826464
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Playground Manager') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 72.785324 ms
+3Dception: No audio listener in scene.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeSwarm
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: loading input type 'steamvr'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: > using steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Dawn'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found vive camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): creating mouse camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Json ''
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Death' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Death'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeSwarm
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.OnScriptReload(): steam active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 0: device class: HMD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 1: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 2: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 3: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 4: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 5: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 6: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 7: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 8: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 9: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 10: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 11: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 12: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 13: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 14: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 15: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager: finding player objects...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager: > found fallback vr 'PlayerVive'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerManager: missing mouse player object
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3683 unused Assets to reduce memory usage. Loaded Objects now: 5993.
+Total: 21.382133 ms (FindLiveObjects: 0.436185 ms CreateObjectMapping: 0.273054 ms MarkObjects: 11.519146 ms  DeleteObjects: 9.153455 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 8405.
+Total: 13.630200 ms (FindLiveObjects: 0.494654 ms CreateObjectMapping: 0.335616 ms MarkObjects: 12.745551 ms  DeleteObjects: 0.053499 ms)
+
+Upgrade: register initial 'researchFrisbee=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchBubbleGun=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchShield=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchFrisbee'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchFrisbee' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchBubbleGun'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchBubbleGun' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchShield'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchShield' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.603293 ms
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeSwarm
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: loading input type 'steamvr'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: > using steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Json ''
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found vive camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found disabled main camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeSwarm
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Dawn'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Cave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Cave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.OnScriptReload(): steam active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 0: device class: HMD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 1: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 2: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 3: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 4: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 5: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 6: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 7: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 8: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 9: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 10: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 11: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 12: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 13: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 14: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 15: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2362 unused Assets to reduce memory usage. Loaded Objects now: 9083.
+Total: 16.754538 ms (FindLiveObjects: 0.602239 ms CreateObjectMapping: 0.553417 ms MarkObjects: 13.639555 ms  DeleteObjects: 1.958740 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 153 unused Assets to reduce memory usage. Loaded Objects now: 132625.
+Total: 32.205784 ms (FindLiveObjects: 6.703568 ms CreateObjectMapping: 0.946626 ms MarkObjects: 24.363804 ms  DeleteObjects: 0.190904 ms)
+
+Upgrade: register initial 'researchFrisbee=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchBubbleGun=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchShield=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchFrisbee'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchFrisbee' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchBubbleGun'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchBubbleGun' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchShield'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchShield' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'ParticlesDroneTransform') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Playground Trails (ParticleWindStreak)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesShadowInk') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesShadowInk') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesCrystalSparkle (2)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ChargeNode') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Missing Prefab (Dummy)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ChargeNode') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesCrystalSparkle (1)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ChargeNode') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesTeleportHintDestination') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Playground Trails (ParticleWindWisp)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Missing Prefab (Dummy)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesCrystalSparkle (2)') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticleSandShimmerWide') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesTeleportPlayer') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Playground Manager') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesFabricatorBuilding') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesPlayerVacuumReceive') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesPlayerVacuumReceive') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesCrystalSparkleLarge') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesTeleportMoving') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesCrystalSparkle') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesBlueSmoke') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesBlueSmoke') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesBlueSmoke') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticleDust') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesOnHitFloorDust') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'ParticlesBlueSmoke') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 9 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 54.663757 ms
+3Dception: No audio listener in scene.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeWaves
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: loading input type 'steamvr'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: > using steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found vive camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): creating mouse camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeWaves
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Json ''
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.OnScriptReload(): steam active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 0: device class: HMD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 1: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 2: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 3: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 4: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 5: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 6: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 7: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 8: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 9: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 10: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 11: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 12: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 13: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 14: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 15: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2a2c -> priority: 1 
+  Thread -> id: 27c4 -> priority: 1 
+
+Unloading 2623 unused Assets to reduce memory usage. Loaded Objects now: 18417.
+Total: 23.901894 ms (FindLiveObjects: 1.153610 ms CreateObjectMapping: 0.536753 ms MarkObjects: 14.889934 ms  DeleteObjects: 7.321010 ms)
+
+NullReferenceException
+  at (wrapper managed-to-native) UnityEngine.Component:get_transform ()
+  at InteractiveMenuItemBuilder.BuildIconCustomPurchase[InteractiveMenuItemPurchase] (.InteractiveMenuCore owner, System.String name, System.Object param, UnityEngine.GameObject icon) [0x00000] in <filename unknown>:0 
+  at InteractiveMenuItemBuilder.BuildIconCustomPurchaseOld (.InteractiveMenuCore owner, System.String name, System.Object param, UnityEngine.GameObject icon) [0x00000] in <filename unknown>:0 
+  at PlayerInput+<BuildSynthMenuFromSettings>d__Iterator__41.MoveNext () [0x00000] in <filename unknown>:0 
+  at UnityEngine.SetupCoroutine.InvokeMoveNext (IEnumerator enumerator, IntPtr returnValueAddress) [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 63 unused Assets to reduce memory usage. Loaded Objects now: 142297.
+Total: 33.753475 ms (FindLiveObjects: 7.412808 ms CreateObjectMapping: 1.119405 ms MarkObjects: 25.048777 ms  DeleteObjects: 0.171609 ms)
+
+Upgrade: register initial 'researchFrisbee=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchBubbleGun=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchShield=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchFrisbee'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchFrisbee' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchBubbleGun'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchBubbleGun' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchShield'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchShield' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: [1.0] spawning wave at Spawn1: x3 (difficulty: 1) 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Wave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Wave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: [2.0] spawning wave at Spawn1: x3 (difficulty: 2) 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: [3.0] spawning wave at Spawn1: x2 (difficulty: 3) 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: [4.0] spawning wave at Spawn1: x6 (difficulty: 4) 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: [4.1] spawning wave at Spawn0: x3 (difficulty: 1) 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 60.895477 ms
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeWaves
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: loading input type 'steamvr'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: > using steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Json ''
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found vive camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found disabled main camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeWaves
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.OnScriptReload(): steam active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 0: device class: HMD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 1: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 2: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 3: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 4: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 5: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 6: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 7: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 8: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 9: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 10: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 11: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 12: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 13: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 14: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 15: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 3272 unused Assets to reduce memory usage. Loaded Objects now: 9323.
+Total: 27.149891 ms (FindLiveObjects: 0.646384 ms CreateObjectMapping: 0.610717 ms MarkObjects: 15.443935 ms  DeleteObjects: 10.448270 ms)
+
+SkyboxTrigger: changing skybox to 'Cave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Cave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 132665.
+Total: 33.989403 ms (FindLiveObjects: 6.708831 ms CreateObjectMapping: 0.979077 ms MarkObjects: 26.104450 ms  DeleteObjects: 0.196166 ms)
+
+Upgrade: register initial 'researchFrisbee=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchBubbleGun=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchShield=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchFrisbee'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchFrisbee' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchBubbleGun'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchBubbleGun' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchShield'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchShield' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 51.929417 ms
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeWaves
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: loading input type 'steamvr'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: > using steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Json ''
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found vive camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found disabled main camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeWaves
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Cave' (outdoor: False)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Cave'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.OnScriptReload(): steam active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 0: device class: HMD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 1: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 2: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 3: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 4: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 5: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 6: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 7: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 8: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 9: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 10: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 11: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 12: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 13: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 14: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 15: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2529 unused Assets to reduce memory usage. Loaded Objects now: 9422.
+Total: 19.416084 ms (FindLiveObjects: 0.543184 ms CreateObjectMapping: 0.337663 ms MarkObjects: 16.304319 ms  DeleteObjects: 2.230624 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 46 unused Assets to reduce memory usage. Loaded Objects now: 132512.
+Total: 36.394852 ms (FindLiveObjects: 6.944757 ms CreateObjectMapping: 1.035793 ms MarkObjects: 28.268129 ms  DeleteObjects: 0.145882 ms)
+
+Upgrade: register initial 'researchFrisbee=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchBubbleGun=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchShield=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchFrisbee'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchFrisbee' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchBubbleGun'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchBubbleGun' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchShield'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchShield' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+The referenced script on this Behaviour (Game Object 'Playground Manager') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 54.877174 ms
+3Dception: No audio listener in scene.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeSwarm
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: loading input type 'steamvr'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerInputSelector: > using steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): found vive camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerCameraSupport.InitializeCameras(): creating mouse camera
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: x6 crystals, x3 gold crystals, x0 ectoplants
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > force allocate crystal: C1_Pylon.CrystalPatch (2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal: C3_Pylon.CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal: C2_Build.CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal: C2_Build .CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal: C1_Build.CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal: C2_Pylon.CrystalPatch (1)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal gold: C3_Build.CrystalPatchGold (2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal gold: C1_Build.CrystalPatchGold (3)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RandomGroupResourcesManager: > allocate crystal gold: C3_Build.CrystalPatchGold (2)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Json ''
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Default
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: GameModeSwarm
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: Input_steamvr
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+GameSettings: version: 1, user version: 1 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Loaded Settings: User
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 5 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 8 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+MenuSettings.Validate: validating 11 entries...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Dawn'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+starting steam achievement helper
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.Start()
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager.OnScriptReload(): steam active: True
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 0: device class: HMD
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 1: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 2: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 3: device class: TrackingReference
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 4: device class: Controller
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+PlayerViveInputManager: creating input 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 5: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 6: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 7: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 8: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 9: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 10: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 11: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 12: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 13: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 14: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+> 15: device class: Invalid
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Frisbee2' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'BubbleGun' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Player: tool 'Shield' added
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 2732 unused Assets to reduce memory usage. Loaded Objects now: 37195.
+Total: 45.128494 ms (FindLiveObjects: 2.036505 ms CreateObjectMapping: 0.945165 ms MarkObjects: 28.361973 ms  DeleteObjects: 13.784268 ms)
+
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+
+Unloading 51 unused Assets to reduce memory usage. Loaded Objects now: 160360.
+Total: 49.573959 ms (FindLiveObjects: 9.582039 ms CreateObjectMapping: 2.444332 ms MarkObjects: 37.365162 ms  DeleteObjects: 0.181256 ms)
+
+Upgrade: register initial 'researchFrisbee=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchBubbleGun=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: register initial 'researchShield=0'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchFrisbee'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchFrisbee' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchBubbleGun'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchBubbleGun' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Upgrade: initial upgrade 'researchShield'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchShield' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchOffense' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C3_Pylon: spawning random wave: x1, difficulty: 3.20138
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchPlasma' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Travel: spawning random wave: x1, difficulty: 6.055607
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x1, difficulty: 6.513954
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_TravelNew: spawning random wave: x2, difficulty: 7.19453
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x2, difficulty: 7.513985
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C3_Build - Skyzone: spawning random wave: x1, difficulty: 8.090391
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x1, difficulty: 9.965448
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x2, difficulty: 11.79884
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Travel: spawning random wave: x1, difficulty: 11.84745
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x3, difficulty: 12.11135
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x1, difficulty: 12.56969
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Travel: spawning random wave: x2, difficulty: 13.16693
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Travel: spawning random wave: x1, difficulty: 13.49333
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Steam/[CameraRig]/CameraSpinTransformRoot/PlayerMap/Map/Selection/Cube"
+ 
+(Filename:  Line: 0)
+
+EO: node: C1_Build: spawning random wave: x4, difficulty: 15.08366
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Travel: spawning random wave: x2, difficulty: 15.09755
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Travel: spawning random wave: x2, difficulty: 17.30595
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x4, difficulty: 17.47262
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x3, difficulty: 17.72263
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_TravelNew: spawning random wave: x4, difficulty: 18.25042
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+UpgradeHelper: upgrading 'researchDefense' to level 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x2, difficulty: 19.3199
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Pylon - Skyzone: spawning random wave: x1, difficulty: 19.96575
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x5, difficulty: 20.50049
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Pylon - Skyzone: spawning random wave: x3, difficulty: 21.56997
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x5, difficulty: 23.11863
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_TravelNew: spawning random wave: x2, difficulty: 23.66726
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x4, difficulty: 23.85476
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x3, difficulty: 25.07702
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Travel: spawning random wave: x4, difficulty: 25.23675
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxTrigger: changing skybox to 'Morning' (outdoor: True)
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+SkyboxSwapHelper: loading settings for id 'Morning'
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LOCK HAPPENEDDEDED
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+EO: node: C1_Build: spawning random wave: x1, difficulty: 25.87566
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.', symOptions: 534, UserName: 'Elliot'
+OS-Version: 6.1.7601 (Service Pack 1) 0x300-0x1
+C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip.exe:CosmicTrip.exe (000000013F890000), size: 23318528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 5.5.2.62272
+C:\Windows\SYSTEM32\ntdll.dll:ntdll.dll (0000000077340000), size: 1744896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23572
+C:\Windows\system32\kernel32.dll:kernel32.dll (0000000077120000), size: 1175552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23572
+C:\Windows\system32\KERNELBASE.dll:KERNELBASE.dll (000007FEFD380000), size: 434176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23572
+C:\Windows\system32\HID.DLL:HID.DLL (000007FEFA030000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\msvcrt.dll:msvcrt.dll (000007FEFD590000), size: 651264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.7601.17744
+C:\Windows\system32\USER32.dll:USER32.dll (0000000077240000), size: 1024000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23594
+C:\Windows\system32\GDI32.dll:GDI32.dll (000007FEFDB40000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23591
+C:\Windows\system32\LPK.dll:LPK.dll (000007FEFF620000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23587
+C:\Windows\system32\USP10.dll:USP10.dll (000007FEFD6B0000), size: 827392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.626.7601.23585
+C:\Windows\system32\VERSION.dll:VERSION.dll (000007FEFC1B0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\ole32.dll:ole32.dll (000007FEFF330000), size: 2109440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23392
+C:\Windows\system32\RPCRT4.dll:RPCRT4.dll (000007FEFF200000), size: 1232896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23642
+C:\Windows\system32\SHLWAPI.dll:SHLWAPI.dll (000007FEFD780000), size: 462848 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\ADVAPI32.dll:ADVAPI32.dll (000007FEFD4B0000), size: 897024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23572
+C:\Windows\SYSTEM32\sechost.dll:sechost.dll (000007FEFDFC0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.18869
+C:\Windows\system32\SHELL32.dll:SHELL32.dll (000007FEFE440000), size: 14196736 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23537
+C:\Windows\system32\OPENGL32.dll:OPENGL32.dll (000007FEF1010000), size: 1167360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\GLU32.dll:GLU32.dll (000007FEFB660000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DDRAW.dll:DDRAW.dll (000007FEFB440000), size: 987136 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\DCIMAN32.dll:DCIMAN32.dll (000007FEFB6D0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23587
+C:\Windows\system32\SETUPAPI.dll:SETUPAPI.dll (000007FEFD960000), size: 1929216 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\CFGMGR32.dll:CFGMGR32.dll (000007FEFD140000), size: 221184 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\OLEAUT32.dll:OLEAUT32.dll (000007FEFF540000), size: 892928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23569
+C:\Windows\system32\DEVOBJ.dll:DEVOBJ.dll (000007FEFD180000), size: 106496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\dwmapi.dll:dwmapi.dll (000007FEFAA60000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.18917
+C:\Windows\system32\WINMM.dll:WINMM.dll (000007FEFA350000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WS2_32.dll:WS2_32.dll (000007FEFD910000), size: 315392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23451
+C:\Windows\system32\NSI.dll:NSI.dll (000007FEFD800000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\IMM32.dll:IMM32.dll (000007FEFF1D0000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSCTF.dll:MSCTF.dll (000007FEFDBB0000), size: 1085440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23572
+C:\Windows\system32\DNSAPI.dll:DNSAPI.dll (000007FEFC6A0000), size: 372736 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17570
+C:\Windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (000007FEF98F0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\WINNSI.DLL:WINNSI.DLL (000007FEF98E0000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINHTTP.dll:WINHTTP.dll (000007FEF8600000), size: 462848 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23451
+C:\Windows\system32\webio.dll:webio.dll (000007FEF8590000), size: 413696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23375
+C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (000007FEDEEF0000), size: 1515520 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.87.47.58
+C:\Windows\system32\PSAPI.DLL:PSAPI.DLL (0000000077510000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Mono\mono.dll:mono.dll (000007FEDEC10000), size: 2998272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.0.0.1
+C:\Windows\system32\MSWSOCK.dll:MSWSOCK.dll (000007FEFC8D0000), size: 348160 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23451
+C:\Windows\system32\CRYPTBASE.dll:CRYPTBASE.dll (000007FEFCF90000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23642
+C:\Windows\System32\wship6.dll:wship6.dll (000007FEFC8C0000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\uxtheme.dll:uxtheme.dll (000007FEFA5B0000), size: 352256 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Plugins\AudioPlugin3Dception.dll:AudioPlugin3Dception.dll (000007FEFB390000), size: 659456 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\system32\d3d11.dll:d3d11.dll (000007FEF0480000), size: 1921024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.2.9200.16570
+C:\Windows\system32\dxgi.dll:dxgi.dll (000007FEF0C90000), size: 380928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.2.9200.16492
+C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Plugins\OVRPlugin.dll:OVRPlugin.dll (000007FEDE3D0000), size: 2920448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.11.0.0
+C:\Windows\system32\WININET.dll:WININET.dll (000007FEFDCC0000), size: 2465792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.9600.17840
+C:\Windows\system32\api-ms-win-downlevel-user32-l1-1-0.dll:api-ms-win-downlevel-user32-l1-1-0.dll (000007FEFD1B0000), size: 16384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.2.9200.16492
+C:\Windows\system32\api-ms-win-downlevel-shlwapi-l1-1-0.dll:api-ms-win-downlevel-shlwapi-l1-1-0.dll (000007FEFD4A0000), size: 16384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.2.9200.16492
+C:\Windows\system32\api-ms-win-downlevel-version-l1-1-0.dll:api-ms-win-downlevel-version-l1-1-0.dll (000007FEFD3F0000), size: 16384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.2.9200.16492
+C:\Windows\system32\api-ms-win-downlevel-normaliz-l1-1-0.dll:api-ms-win-downlevel-normaliz-l1-1-0.dll (000007FEFD1C0000), size: 12288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.2.9200.16492
+C:\Windows\system32\normaliz.DLL:normaliz.DLL (0000000077500000), size: 12288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\iertutil.dll:iertutil.dll (000007FEFE170000), size: 2912256 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.9600.17840
+C:\Windows\system32\api-ms-win-downlevel-advapi32-l1-1-0.dll:api-ms-win-downlevel-advapi32-l1-1-0.dll (000007FEFD1A0000), size: 20480 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.2.9200.16492
+C:\Windows\system32\USERENV.dll:USERENV.dll (000007FEFD110000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\profapi.dll:profapi.dll (000007FEFD100000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WTSAPI32.dll:WTSAPI32.dll (000007FEFC220000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\pdh.dll:pdh.dll (000007FEF0260000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\api-ms-win-core-synch-l1-2-0.DLL:api-ms-win-core-synch-l1-2-0.DLL (000007FEF4C80000), size: 12288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.10586.9
+C:\Windows\system32\DbgHelp.dll:DbgHelp.dll (000007FEFB7D0000), size: 1200128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\ntmarta.dll:ntmarta.dll (000007FEFC000000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WLDAP32.dll:WLDAP32.dll (000007FEFD810000), size: 335872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\System32\perfos.dll:perfos.dll (000007FEF9270000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\wintrust.DLL:wintrust.DLL (000007FEFD1D0000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23566
+C:\Windows\system32\CRYPT32.dll:CRYPT32.dll (0000000007890000), size: 1495040 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23566
+C:\Windows\system32\MSASN1.dll:MSASN1.dll (000007FEFD0F0000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\CRYPTSP.dll:CRYPTSP.dll (000007FEFCB20000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23471
+C:\Windows\system32\rsaenh.dll:rsaenh.dll (000007FEFC5F0000), size: 290816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\imagehlp.dll:imagehlp.dll (000007FEFF630000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.18288
+C:\Windows\system32\ncrypt.dll:ncrypt.dll (000007FEFCA90000), size: 327680 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23642
+C:\Windows\system32\bcrypt.dll:bcrypt.dll (000007FEFCA60000), size: 139264 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23642
+C:\Windows\system32\bcryptprimitives.dll:bcryptprimitives.dll (000007FEFC530000), size: 311296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23451
+C:\Windows\system32\GPAPI.dll:GPAPI.dll (000007FEFC3A0000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23452
+C:\Program Files\Oculus\Support\oculus-runtime\LibOVRRT64_1.dll:LibOVRRT64_1.dll (000007FEDE200000), size: 1888256 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.12.0.0
+C:\Windows\system32\DXGIDebug.dll:DXGIDebug.dll (000007FEF0B50000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.30.9600.17336
+C:\Windows\system32\nvwgf2umx.dll:nvwgf2umx.dll (000007FEEDB70000), size: 19894272 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 21.21.13.7633
+C:\Windows\system32\nvspcap64.dll:nvspcap64.dll (000007FEF20A0000), size: 1904640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.4.0.70
+C:\Windows\system32\nvapi64.dll:nvapi64.dll (000007FEFA610000), size: 4136960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 21.21.13.7633
+C:\Windows\system32\CLBCatQ.DLL:CLBCatQ.DLL (000007FEFDF20000), size: 626688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.8530.16385
+C:\Windows\system32\wbem\wbemprox.dll:wbemprox.dll (000007FEF19A0000), size: 61440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\wbemcomn.dll:wbemcomn.dll (000007FEF1C20000), size: 548864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\RpcRtRemote.dll:RpcRtRemote.dll (000007FEFD040000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (000007FEF1770000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\wbem\fastprox.dll:fastprox.dll (000007FEF1AF0000), size: 925696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\NTDSAPI.dll:NTDSAPI.dll (000007FEF1AC0000), size: 159744 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\System32\MMDevApi.dll:MMDevApi.dll (000007FEFBD30000), size: 307200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\System32\PROPSYS.dll:PROPSYS.dll (000007FEFBC00000), size: 1228800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.7601.17514
+C:\Windows\system32\wdmaud.drv:wdmaud.drv (000007FEEEFD0000), size: 241664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17514
+C:\Windows\system32\ksuser.dll:ksuser.dll (000000006B470000), size: 24576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.19091
+C:\Windows\system32\AVRT.dll:AVRT.dll (000007FEFBA60000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\AUDIOSES.DLL:AUDIOSES.DLL (000007FEEF0D0000), size: 323584 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23471
+C:\Windows\system32\msacm32.drv:msacm32.drv (000007FEEF380000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\MSACM32.dll:MSACM32.dll (000007FEEEFB0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\midimap.dll:midimap.dll (000007FEEF350000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\xinput1_3.dll:xinput1_3.dll (00000000068F0000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Plugins\openvr_api.dll:openvr_api.dll (000007FEFB580000), size: 323584 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Program Files (x86)\Steam\steamapps\common\SteamVR\bin\vrclient_x64.dll:vrclient_x64.dll (000007FEDDF20000), size: 2985984 (result: 0), SymType: '-deferred-', PDB: ''
+C:\Windows\system32\MSVCP120.dll:MSVCP120.dll (000007FEF31D0000), size: 679936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 12.0.21005.1
+C:\Windows\system32\MSVCR120.dll:MSVCR120.dll (000007FEF30E0000), size: 978944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 12.0.21005.1
+C:\Windows\system32\apphelp.dll:apphelp.dll (000007FEFCF30000), size: 356352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.19050
+C:\Windows\system32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (000007FEF96E0000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.17970
+C:\Windows\system32\dhcpcsvc.DLL:dhcpcsvc.DLL (000007FEF96C0000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\SspiCli.dll:SspiCli.dll (000007FEFCF00000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23642
+C:\Windows\system32\credssp.dll:credssp.dll (000007FEFC700000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23642
+C:\Windows\System32\wshtcpip.dll:wshtcpip.dll (000007FEFC0F0000), size: 28672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\system32\rasadhlp.dll:rasadhlp.dll (000007FEF8440000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7600.16385
+C:\Windows\System32\fwpuclnt.dll:fwpuclnt.dll (000007FEF9710000), size: 339968 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.18283
+C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\CosmicTrip_Data\Plugins\CSteamworks.dll:CSteamworks.dll (000007FEDF860000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.24.0.0
+C:\Program Files (x86)\Steam\steamapps\common\CosmicTrip\steam_api64.dll:steam_api64.dll (000000000B1C0000), size: 225280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.89.45.4
+C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (0000000053FF0000), size: 13803520 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.87.47.58
+C:\Program Files (x86)\Steam\tier0_s64.dll:tier0_s64.dll (00000000557F0000), size: 3592192 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.87.47.58
+C:\Program Files (x86)\Steam\vstdlib_s64.dll:vstdlib_s64.dll (0000000055780000), size: 442368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.87.47.58
+C:\Windows\system32\Secur32.dll:Secur32.dll (000007FEFCD30000), size: 45056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.1.7601.23642
+
+========== OUTPUTING STACK TRACE ==================
+
+0x000000013F967A8C (CosmicTrip) physx::shdfnd::TempAllocator::`default constructor closure'
+0x000000013FB98623 (CosmicTrip) physx::shdfnd::Foundation::getAllocator
+0x0000000024F40B6B (Mono JIT Code) (wrapper managed-to-native) UnityEngine.MonoBehaviour:StopCoroutineViaEnumerator_Auto (System.Collections.IEnumerator)
+0x0000000024F40AB5 (Mono JIT Code) UnityEngine.MonoBehaviour:StopCoroutine (System.Collections.IEnumerator)
+0x0000000024F6AB85 (Mono JIT Code) StateSequence:Clear ()
+0x0000000025C4AB6B (Mono JIT Code) DroneCore:PlanTravelPath (TeleporterNode[],int,single,single)
+0x0000000025C4A95C (Mono JIT Code) MapUI:SendDronesToPoint (UnityEngine.Vector3)
+0x0000000025C45387 (Mono JIT Code) MapUI:HandleCommandTriggerDown (PlayerInputVR,UnityEngine.Vector3&,MapElement&,MapCursor)
+0x0000000025BCBCDF (Mono JIT Code) MapUI:HandleCommand (MapCursor,PlayerInputVR,int,MapElement&)
+0x0000000024F307C4 (Mono JIT Code) MapUI/<HandleCommanding>d__Iterator__185:MoveNext ()
+0x0000000005D7BB49 (Mono JIT Code) UnityEngine.SetupCoroutine:InvokeMoveNext (System.Collections.IEnumerator,intptr)
+0x0000000005D7BC61 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_object_intptr (object,intptr,intptr,intptr)
+0x000007FEDED354A3 (mono) mono_set_defaults
+0x000007FEDEC883DD (mono) mono_runtime_invoke
+0x000000013FBA46BB (CosmicTrip) physx::shdfnd::Foundation::getTempAllocFreeTable
+0x000000013FB95432 (CosmicTrip) physx::shdfnd::Foundation::getAllocator
+0x000000013FB956E0 (CosmicTrip) physx::shdfnd::Foundation::getAllocator
+0x000000013F967F89 (CosmicTrip) physx::shdfnd::TempAllocator::`default constructor closure'
+0x000000013FA87ACB (CosmicTrip) physx::shdfnd::Foundation::getNamedAllocMap
+0x0000000140055EE7 (CosmicTrip) physx::shdfnd::Foundation::getErrorMutex
+0x00000001400560BA (CosmicTrip) physx::shdfnd::Foundation::getErrorMutex
+0x0000000140059C18 (CosmicTrip) physx::shdfnd::Foundation::getErrorMutex
+0x0000000140160F00 (CosmicTrip) physx::shdfnd::Foundation::getErrorMutex
+0x00000000771359CD (kernel32) BaseThreadInitThunk
+0x000000007736A561 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
